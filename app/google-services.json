@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "151911886055",
+    "firebase_url": "https://fir-testapp-ed9e9.firebaseio.com",
+    "project_id": "fir-testapp-ed9e9",
+    "storage_bucket": "fir-testapp-ed9e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151911886055:android:2ac2138856e089e9",
+        "android_client_info": {
+          "package_name": "com.example.ranjeet.firebasetestapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151911886055-sifetv7c17nim4u4m250kprhebs54tth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANwJEFV9B3uLlo1V_dcaN5uSVPue9socU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
